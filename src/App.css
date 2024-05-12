@@ -1,0 +1,19 @@
+
+header{
+    height: 80px;
+    background-image: url("/ban.png");
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 54);
+}
+main{
+    display: grid;
+    padding: 15px;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+}
+#headerText{
+    font-size: 50px;
+}
