@@ -1,7 +1,7 @@
 
 header{
     height: 80px;
-    background-image: url("/ban.png");
+    background-image: url("/bananas/ban.png");
 
     display: flex;
     align-items: center;

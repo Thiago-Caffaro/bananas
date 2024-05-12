@@ -1,5 +1,5 @@
 import './banana.css'
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef } from 'react';
 
 function Banana({src, desc, title}) {
 
